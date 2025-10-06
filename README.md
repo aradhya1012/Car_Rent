@@ -16,3 +16,14 @@ Server: Express.js, Mongodb
 Installation:
 
 Clone Rent a Ride
+https://github.com/aradhya1012/Car_Rent
+
+Install node modules
+
+  cd backend
+  npm install
+  npm run dev
+
+  cd client
+  npm install
+  npm run dev
